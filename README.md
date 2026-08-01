@@ -41,4 +41,4 @@ Enhance UI with charts and visual insights.
 Deploy on Render or Hugging Face Spaces for faster load times.
 Integrate model retraining option for updated datasets.
 
-Live App: https://breezy-friends-march.loca.lt
+Deployment link -- https://cardekho-used-car-price-predictor-c4n4n5pbbow4tmna68xzp4.streamlit.app/
